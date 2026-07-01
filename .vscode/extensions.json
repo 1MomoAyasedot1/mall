@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "noxussj.element-plus",
+    "christian-kohler.path-intellisense",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
